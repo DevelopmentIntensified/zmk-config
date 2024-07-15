@@ -65,19 +65,19 @@
 
         HoldingKeyLeft {
             bindings = <
-&trans  &trans  &trans  &trans   &trans   &trans      &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp A   &kp S   &kp D    &kp F    &kp G       &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans   &trans   &trans      &trans  &trans  &trans  &trans  &trans  &trans
-                        &kp ESC  &kp DEL  &kp BSPC    &trans  &trans  &trans
+&trans  &trans  &trans  &trans   &trans         &trans     &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp A   &kp S   &kp D    &kp F          &kp G      &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans   &trans         &trans     &trans  &trans  &trans  &trans  &trans  &trans
+                        &kp ESC  &kp BACKSPACE  &kp DEL    &trans  &trans  &trans
             >;
         };
 
         HoldingKeyRight {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans     &trans   &trans   &trans  &trans    &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &kp H      &kp J    &kp K    &kp L   &kp SEMI  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans     &trans   &trans   &trans  &trans    &trans
-                        &trans  &trans  &trans    &kp SPACE  &kp TAB  &kp RET
+&trans  &trans  &trans  &trans  &trans  &trans    &trans   &trans     &trans   &trans  &trans    &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &kp H    &kp J      &kp K    &kp L   &kp SEMI  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans   &trans     &trans   &trans  &trans    &trans
+                        &trans  &trans  &trans    &kp TAB  &kp SPACE  &kp RET
             >;
         };
 
