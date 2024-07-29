@@ -134,10 +134,10 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&kp GRAVE   &kp Q                       &kp W                       &kp E                           &kp R                     &kp T         &kp Y       &kp U                           &kp I                     &kp O                         &kp P                                 &kp MINUS
-&caps_word  &HomeRowModLeft LEFT_GUI A  &HomeRowModLeft LEFT_ALT S  &HomeRowModLeft LEFT_CONTROL D  &HomeRowModLeft LSHIFT F  &plane 1 G    &plane 1 H  &homeRowModRight RIGHT_SHIFT J  &homeRowModRight RCTRL K  &homeRowModRight RIGHT_ALT L  &homeRowModRight RIGHT_GUI SEMICOLON  &kp SQT
-&mo 8       &kp Z                       &kp X                       &kp C                           &kp V                     &kp B         &kp N       &kp M                           &kp COMMA                 &kp DOT                       &kp FSLH                              &mo 7
-                                                                    &thumb 2 ESCAPE                 &thumb 4 BACKSPACE        &kp DEL       &kp TAB     &space_hold 5 SPACE             &thumb 6 ENTER
+&kp GRAVE   &kp Q                       &kp W                       &kp E                           &kp R                     &kp T         &kp Y         &kp U                           &kp I                     &kp O                         &kp P                                 &kp MINUS
+&caps_word  &HomeRowModLeft LEFT_GUI A  &HomeRowModLeft LEFT_ALT S  &HomeRowModLeft LEFT_CONTROL D  &HomeRowModLeft LSHIFT F  &plane 1 G    &plane 1 H    &homeRowModRight RIGHT_SHIFT J  &homeRowModRight RCTRL K  &homeRowModRight RIGHT_ALT L  &homeRowModRight RIGHT_GUI SEMICOLON  &kp SQT
+&mo 8       &kp Z                       &kp X                       &kp C                           &kp V                     &kp B         &kp N         &kp M                           &kp COMMA                 &kp DOT                       &kp FSLH                              &mo 8
+                                                                    &thumb 2 ESCAPE                 &thumb 4 BACKSPACE        &kp DEL       &thumb 6 TAB  &space_hold 5 SPACE             &thumb 7 ENTER
             >;
         };
 
