@@ -152,10 +152,10 @@
 
         Movement {
             bindings = <
-&none  &none     &none     &none      &none      &kp LC(X)    &none      &none      &none      &none      &none    &none
-&none  &kp LGUI  &kp LALT  &kp LCTRL  &kp LSHFT  &kp LC(C)    &kp LEFT   &kp UP     &kp DOWN   &kp RIGHT  &none    &none
-&none  &none     &none     &none      &none      &kp LC(V)    &kp LC(F)  &kp HOME   &kp PG_UP  &kp PG_DN  &kp END  &none
-                           &none      &none      &tog 0       &kp TAB    &kp LC(Z)  &kp LC(Y)
+&none  &none     &none     &none      &none      &kp LC(X)    &none      &none           &none         &none      &none    &none
+&none  &kp LGUI  &kp LALT  &kp LCTRL  &kp LSHFT  &kp LC(C)    &kp LEFT   &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT  &none    &none
+&none  &none     &none     &none      &none      &kp LC(V)    &kp LC(F)  &kp HOME        &kp PG_UP     &kp PG_DN  &kp END  &none
+                           &none      &none      &tog 0       &kp TAB    &kp LC(Z)       &kp LC(Y)
             >;
         };
 
