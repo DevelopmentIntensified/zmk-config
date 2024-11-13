@@ -82,8 +82,8 @@
 
             #binding-cells = <2>;
             flavor = "balanced";
-            tapping-term-ms = <280>;
-            quick-tap-ms = <170>;
+            tapping-term-ms = <250>;
+            quick-tap-ms = <150>;
         };
 
         HomeRowModLeft: HomeRowModLeft {
@@ -116,7 +116,7 @@
 
             #binding-cells = <2>;
             flavor = "balanced";
-            tapping-term-ms = <270>;
+            tapping-term-ms = <250>;
             quick-tap-ms = <130>;
         };
     };
