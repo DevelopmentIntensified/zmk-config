@@ -82,7 +82,7 @@
 
             #binding-cells = <2>;
             flavor = "balanced";
-            tapping-term-ms = <150>;
+            tapping-term-ms = <180>;
             quick-tap-ms = <200>;
         };
 
@@ -116,7 +116,7 @@
 
             #binding-cells = <2>;
             flavor = "balanced";
-            tapping-term-ms = <130>;
+            tapping-term-ms = <150>;
             quick-tap-ms = <200>;
         };
     };
@@ -182,7 +182,7 @@
 &none        &kp GRAVE     &kp SQT    &kp BSLH     &kp AMPERSAND  &kp EXCLAMATION    &kp RET    &kp BSPC   &kp DEL    &none     &none     &none
 &kp POUND    &kp CARET     &kp EQUAL  &kp MINUS    &kp DOLLAR     &kp ASTERISK       &kp SPACE  &kp RSHFT  &kp RCTRL  &kp RALT  &kp RGUI  &none
 &kp AT_SIGN  &parang_left  &kp LBKT   &kp RBKT     &parang_right  &commaperiod       &kp TAB    &kp W      &kp B      &none     &none     &none
-                                      &kp PERCENT  &kp COLON      &kp SEMI           &to 0      &none      &none
+                                      &kp PERCENT  &kp COLON      &kp SEMI           &to 0      &trans     &none
             >;
         };
 
