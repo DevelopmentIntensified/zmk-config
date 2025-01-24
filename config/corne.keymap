@@ -117,7 +117,7 @@
 
             #binding-cells = <2>;
             flavor = "balanced";
-            tapping-term-ms = <100>;
+            tapping-term-ms = <130>;
             quick-tap-ms = <150>;
         };
     };
