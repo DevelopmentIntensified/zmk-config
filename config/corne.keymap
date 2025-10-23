@@ -147,7 +147,7 @@
 &kp GRAVE   &kp Q                       &kp W                       &kp E                           &kp R                     &kp T           &kp Y         &kp U                           &kp I                     &kp O                         &kp P                                 &kp MINUS
 &caps_word  &HomeRowModLeft LEFT_GUI A  &HomeRowModLeft LEFT_ALT S  &HomeRowModLeft LEFT_CONTROL D  &HomeRowModLeft LSHIFT F  &plane 1 G      &plane 1 H    &homeRowModRight RIGHT_SHIFT J  &homeRowModRight RCTRL K  &homeRowModRight RIGHT_ALT L  &homeRowModRight RIGHT_GUI SEMICOLON  &kp SQT
 &mo 9       &kp Z                       &kp X                       &kp C                           &kp V                     &kp B           &kp N         &kp M                           &kp COMMA                 &kp DOT                       &kp FSLH                              &mo 9
-                                                                    &kp ESC                         &thumb 5 BACKSPACE        &thumb 2 DEL    &thumb 7 TAB  &space_hold 6 SPACE             &thumb 8 ENTER
+                                                                    &thumb 7 ESC                    &thumb 2 BACKSPACE        &thumb 5 DEL    &thumb 8 TAB  &space_hold 6 SPACE             &kp ENTER
             >;
         };
 
