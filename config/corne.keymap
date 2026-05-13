@@ -83,7 +83,7 @@
 
             #binding-cells = <2>;
             flavor = "balanced";
-            tapping-term-ms = <200>;
+            tapping-term-ms = <150>;
             quick-tap-ms = <300>;
         };
 
@@ -117,9 +117,8 @@
 
             #binding-cells = <2>;
             flavor = "balanced";
-            tapping-term-ms = <130>;
-            quick-tap-ms = <180>;
-            require-prior-idle-ms = <40>;
+            tapping-term-ms = <150>;
+            quick-tap-ms = <150>;
         };
 
         home_row_mod_right_shift: home_row_mod_right_shift {
